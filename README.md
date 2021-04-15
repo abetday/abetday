@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # My Status
 [![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=abetday&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/abetday/)
 <br>
